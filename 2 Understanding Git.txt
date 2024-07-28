@@ -1,6 +1,5 @@
 Script of command line prompts entered for recipe info
 
-
 C:\Users\Rachel Susholz>cd repo
 
 C:\Users\Rachel Susholz\repo> cd recipe-data
